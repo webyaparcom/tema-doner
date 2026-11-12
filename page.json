@@ -8,9 +8,9 @@
         "ar": "خدماتنا"
       },
       "description": {
-        "tr": "Ateşten soğana, soğandan tabağa.",
-        "en": "From fire to onion, from onion to plate.",
-        "ar": "من الحطب إلى البصل، ومن البصل إلى الطبق."
+        "tr": "Fırından masaya, sıcak sıcak.",
+        "en": "From the oven to your table, piping hot.",
+        "ar": "من الفرن إلى طاولتك، ساخنًا."
       },
       "path": "hizmetler",
       "icon": "work",
@@ -49,9 +49,9 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "Fırın döner ve pide; görseller temsilîdir.",
-        "en": "Oven doner and pide; images are representative.",
-        "ar": "دونات مخبوزة وبيرة؛ الصور تمثيلية."
+        "tr": "Fırın döner, pide ve lahmacun; görseller temsilîdir.",
+        "en": "Oven doner, pide and lahmacun; images are representative.",
+        "ar": "دونر الفرن وبيدا ولحم بعجين؛ الصور تمثيلية."
       }
     },
     {

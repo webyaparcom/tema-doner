@@ -1,7 +1,7 @@
 {
   "name": "Fıçı Döner",
   "short_name": "Fıçı Döner",
-  "description": "Fırın döner ve pide; görseller temsilîdir.",
+  "description": "Fırın döner, pide ve lahmacun; görseller temsilîdir.",
   "start_url": "/tr/",
   "scope": "/",
   "display": "standalone",
