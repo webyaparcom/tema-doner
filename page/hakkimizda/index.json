@@ -21,9 +21,9 @@
   },
   "pathnext": "",
   "description": {
-    "tr": "Fırın döner ve pide; görseller temsilîdir.",
-    "en": "Oven doner and pide; images are representative.",
-    "ar": "دونات مخبوزة وبيرة؛ الصور تمثيلية."
+    "tr": "Fırın döner, pide ve lahmacun; görseller temsilîdir.",
+    "en": "Oven doner, pide and lahmacun; images are representative.",
+    "ar": "دونر الفرن وبيدا ولحم بعجين؛ الصور تمثيلية."
   },
   "spot": {
     "tr": "",
@@ -42,6 +42,6 @@
     "ar": "من نحن"
   },
   "text": {},
-  "update": "2026-11-05T23:44:32.020Z",
+  "update": "2026-11-12T07:35:24.127Z",
   "date": "2026-10-30"
 }
